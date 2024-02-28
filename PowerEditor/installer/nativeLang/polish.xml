@@ -51,9 +51,9 @@ Translation note:
 					<Item subMenuId="edit-pasteSpecial" name="Wklej specjalnie"/>
 					<Item subMenuId="edit-onSelection" name="Z zaznaczenia"/>
 					<Item subMenuId="search-changeHistory" name="Historia zmian"/>
-					<Item subMenuId="search-markAll" name="Wyróżnij każde"/>
-					<Item subMenuId="search-markOne" name="Wyróżnij jedno"/>
-					<Item subMenuId="search-unmarkAll" name="Usuń wyróżnienia"/>
+					<Item subMenuId="search-markAll" name="Zaznacz wszystko"/>
+					<Item subMenuId="search-markOne" name="Zaznacz jedno"/>
+					<Item subMenuId="search-unmarkAll" name="Odznacz wszystko"/>
 					<Item subMenuId="search-jumpUp" name="Przejdź wyżej"/>
 					<Item subMenuId="search-jumpDown" name="Przejdź niżej"/>
 					<Item subMenuId="search-copyStyledText" name="Kopiuj ostylowany tekst"/>
@@ -89,7 +89,7 @@ Translation note:
 					<Item subMenuId="tools-sha1" name="SHA-1"/>
 					<Item subMenuId="tools-sha256" name="SHA-256"/>
 					<Item subMenuId="tools-sha512" name="SHA-512"/>
-					<Item subMenuId="window-sortby" name="Sortuj karty względem"/>
+					<Item subMenuId="window-sortby" name="Sortuj karty według"/>
 				</SubEntries>
 
 				<!-- Menu rozwijane, dokładniej -->
@@ -153,14 +153,14 @@ Translation note:
 					<Item id="42066" name="Sortuj malejąco jako liczby dziesiętne z kropką"/>
 					<Item id="42083" name="Odwróć kolejność linii"/>
 					<Item id="42078" name="Losowa kolejność linii"/>
-					<Item id="42016" name="&amp;MAJUSKUŁY"/>
-					<Item id="42017" name="mi&amp;nuskuły"/>
-					<Item id="42067" name="Jak Nazwy &amp;Własne"/>
-					<Item id="42068" name="Jak Nazwy Własne (zostaw MAJUSKUŁY)"/>
-					<Item id="42069" name="Jak w &amp;zdaniach"/>
-					<Item id="42070" name="Jak w zdaniach (zostaw MAJUSKUŁY)"/>
-					<Item id="42071" name="&amp;oDWRÓĆ wIELKOŚĆ lITER"/>
-					<Item id="42072" name="&amp;loSoWA WIelKość liTEr"/>
+					<Item id="42016" name="&amp;DUŻE LITERY"/>
+					<Item id="42017" name="mi&amp; małe litery"/>
+					<Item id="42067" name="Odpowiednia wielkość"/>
+					<Item id="42068" name="Odpowiednia wielkość (mieszanka)"/>
+					<Item id="42069" name="Wielkość zdania"/>
+					<Item id="42070" name="Wielkość zdania (mieszanka)"/>
+					<Item id="42071" name="&amp; Odwróć wielkość liter"/>
+					<Item id="42072" name="&amp;Losowa wielkość liter"/>
 					<Item id="42073" name="Otwórz plik"/>
 					<Item id="42074" name="Otwórz folder zawierający w eksploratorze plików"/>
 					<Item id="42075" name="Wyszukaj w Internecie"/>
